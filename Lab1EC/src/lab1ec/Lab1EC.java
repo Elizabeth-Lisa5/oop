@@ -17,7 +17,7 @@ public class Lab1EC {
     public static void main(String[] args) {
         // TODO code application logic here
         //attributes
-        int a=5, b=7;
+        int a=15, b=12;
         String name;
         Lab1EC obj1=new Lab1EC();
         
